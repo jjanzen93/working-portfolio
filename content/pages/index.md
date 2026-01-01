@@ -18,7 +18,9 @@ sections:
       creative: ready to get the job done.
     subtitle: >-
       There is nothing I am more passionate about than games and the systems
-      that give them life.
+      that give them life. From my formal education in Game Design and Computer
+      Science at UCSC, to my hands-on experience participating in game jams both
+      alone and on a team, I am more than ready to get my han
     styles:
       self:
         height: auto
