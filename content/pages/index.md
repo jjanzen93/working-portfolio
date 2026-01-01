@@ -21,7 +21,7 @@ sections:
       that give them life. From my formal education in Game Design and Computer
       Science at UCSC, to my hands-on experience participating in game jams both
       alone and on a team, I've cultivated a body of work I am both proud of and
-      eager to expand.
+      eager to expand. Check it out!
     styles:
       self:
         height: auto
