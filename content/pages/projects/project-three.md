@@ -9,7 +9,7 @@ description: >-
   interactivity and landscape.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/cloud-prev.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
