@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Game developer, sound designer, worldbuilder, lifelong problem solver and
-      creative: ready to get the job done.
+      I'm Jack Janzen: Game developer, sound designer, worldbuilder, lifelong
+      problem solver and creative.
     subtitle: >-
       There is nothing I am more passionate about than games and the systems
       that give them life. From my formal education in Game Design and Computer
