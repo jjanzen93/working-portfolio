@@ -10,7 +10,9 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/cloud-prev.gif
-  altText: Project thumbnail image
+  altText: >-
+    A Gif showing a pointer cutting through pixelated clouds, occasionally
+    panning the camera around.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
