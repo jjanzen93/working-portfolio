@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       Game developer, sound designer, worldbuilder, lifelong problem solver and
-      creative: ready for hard work.
+      creative: ready to get the job done.
     subtitle: >-
       There is nothing I am more passionate about than games and the systems
       that give them life.
