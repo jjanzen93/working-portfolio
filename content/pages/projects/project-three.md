@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Infinite Worlds
 colors: colors-a
-date: '2025-05-08'
+date: '2025-05-01'
 client: 'UCSC: Generative Design'
 description: >-
   Three examples of seeded world generation, each with it's own kind of
