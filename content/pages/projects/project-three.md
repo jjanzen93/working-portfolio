@@ -15,7 +15,7 @@ featuredImage:
     panning the camera around.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/conwayprev.gif
   altText: Project image
 ---
 
