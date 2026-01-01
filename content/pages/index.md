@@ -20,7 +20,8 @@ sections:
       There is nothing I am more passionate about than games and the systems
       that give them life. From my formal education in Game Design and Computer
       Science at UCSC, to my hands-on experience participating in game jams both
-      alone and on a team, I am more than ready to get my han
+      alone and on a team, I've cultivated a body of work I am both proud of and
+      eager to expand.
     styles:
       self:
         height: auto
