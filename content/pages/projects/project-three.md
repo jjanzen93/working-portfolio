@@ -15,7 +15,7 @@ featuredImage:
     panning the camera around.
 media:
   type: ImageBlock
-  url: /images/conwayprev.gif
+  url: /images/ripple-prev.gif
   altText: Project image
 ---
 
