@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm Jack Janzen: Game developer, sound designer, world-builder, problem
+      I'm Jack Janzen: game developer, sound designer, world-builder, problem
       solver, and lifelong creative.
     subtitle: >-
       There is nothing I am more passionate about than games and the systems
