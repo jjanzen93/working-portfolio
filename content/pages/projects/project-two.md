@@ -4,7 +4,10 @@ title: Whasteroids
 colors: colors-a
 date: '2025-06-21'
 client: 'Jame Gam #50'
-description: ''
+description: >-
+  Choose between 3 whale characters, each with special move sets, to fight off
+  an infinite onslaught of asteroids. Slash, ram, and fire away for as long as
+  you can!
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
