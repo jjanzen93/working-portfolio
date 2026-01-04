@@ -4,7 +4,10 @@ title: Matey-nence
 colors: colors-a
 date: '2025-07-30'
 client: 30 Days of Summer Jam 2025
-description: 'A '
+description: >-
+  A collection of microgames that puts the player in the position of a pirate
+  who has been relegated to the boring maintenance tasks no one else on their
+  crew is willing to do. Swab the deck!
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
