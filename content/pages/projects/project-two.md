@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Whasteroids
 colors: colors-a
 date: '2025-06-21'
-client: Awesome client
+client: 'Jame Gam #50'
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
