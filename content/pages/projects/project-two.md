@@ -10,7 +10,7 @@ description: >-
   you can!
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/beluga-preview.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
