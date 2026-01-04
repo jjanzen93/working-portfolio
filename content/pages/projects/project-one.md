@@ -10,7 +10,7 @@ description: >-
   crew is willing to do. Swab the deck!
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/matey-4.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
