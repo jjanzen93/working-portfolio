@@ -7,7 +7,7 @@ client: 30 Days of Summer Jam 2025
 description: >-
   A collection of microgames that puts the player in the position of a pirate
   who has been relegated to the boring maintenance tasks no one else on their
-  crew is willing to do. Swab the deck! (CHANGE COVER TO GIF THEN DELETE THIS)
+  crew is willing to do. Swab the deck!
 featuredImage:
   type: ImageBlock
   url: /images/ezgif.com-video-to-gif-converter.gif
