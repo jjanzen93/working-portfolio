@@ -17,16 +17,15 @@ media:
   url: /images/ezgif.com-video-to-gif-converter.gif
   altText: Project image
 ---
-#### Introduction
+### Introduction
 
 In July 2025, Nick Lafredo and I participated in the 30 Days of Summer Jam, with the theme of "high score", and what resulted from that effort is a fun and exciting collection of microgames a la the *WarioWare* series presented with an early-internet style that evokes the fond memory of Flash games. I'll walk you through our process when it came to developing the game, as well as what we learned from the experience.
 
-#### Ideation
+### Ideation
 
-In July 2025, Nick Lafredo and I participated in the 30 Days of Summer Jam, with the theme of "high score", and what resulted from that effort is a fun and exciting collection of microgames a la the *WarioWare* series presented with an early-internet style that evokes the fond memory of Flash games. I'll walk you through our process when it came to developing the game, as well as what we learned from the experience.
+Placeholder text
 
-Planning and Getting Started
-============================
+### Planning and Getting Started
 
-####
+Placeholder text
 
