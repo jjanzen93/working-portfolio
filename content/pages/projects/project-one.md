@@ -10,7 +10,7 @@ description: >-
   crew is willing to do. Swab the deck! (CHANGE COVER TO GIF THEN DELETE THIS)
 featuredImage:
   type: ImageBlock
-  url: /images/matey-4.png
+  url: /images/giphy-ezgif.com-optimize.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
