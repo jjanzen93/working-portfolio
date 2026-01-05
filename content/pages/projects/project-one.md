@@ -19,13 +19,11 @@ media:
 ---
 ### Introduction
 
-In July 2025, Nick Lafredo and I participated in the 30 Days of Summer Jam, with the theme of "high score", and what resulted from that effort is a fun and exciting collection of microgames a la the *WarioWare* series presented with an early-internet style that evokes the fond memory of Flash games. I'll walk you through our process when it came to developing the game, as well as what we learned from the experience.
+In July 2025, Nick Lafredo and I participated in the 30 Days of Summer Jam, with the theme of "high score", and what resulted from that effort is a fun and exciting collection of microgames a la the *WarioWare* series presented with an early-internet style that evokes the fond memory of Flash games. Feel free to take a look at this design document to get an idea of our process and a reflection on what we learned along the way!
 
-### Ideation
 
-Placeholder text
 
-### Planning and Getting Started
 
-Placeholder text
+
+
 
